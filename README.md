@@ -4,10 +4,16 @@ This is project of  Employee_Management_System . It's mini project in our Colleg
 <p>Employee Management System is basic project. it's fully based on Java & mysql server.</p>
 <br>
 <p>here some fercher like  </br>
-Add Employee  </br>
-View Employee    </br>
-Update Employee    </br>
-remove Employee     </br>
+Employee </br>
+<ol>
+    <li> add </li>
+    <li> view </li>
+    <li> remove </li>
+    <li> update </li>
+</ol>
+Employee Salary </br>
+Employee Attendance </br>
+
 
  </br>  Employees Details stored in database. </p>
 
