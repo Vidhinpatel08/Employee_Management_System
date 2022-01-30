@@ -26,6 +26,8 @@ This is project of  Employee_Management_System . It's mini project in our Colleg
   <li> add </li>
   <li> view </li>
   </ol>
+<li> AboutUs </br></li>
+
 </ul>
 
 
