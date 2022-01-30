@@ -16,7 +16,18 @@ This is project of  Employee_Management_System . It's mini project in our Colleg
   <li> update </li>
 </ol>
 <li>Employee Salary </br></li>
+  <ol>
+  <li> add </li>
+  <li> update </li>
+  <li> Generate slips </li>
+  </ol>
 <li>Employee Attendance </br></li>
+  <ol>
+  <li> add </li>
+  <li> view </li>
+  </ol>
 </ul>
+
+
 </br>  Employees Details stored in database.
 </p>
